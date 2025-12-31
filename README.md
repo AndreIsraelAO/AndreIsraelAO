@@ -1,59 +1,66 @@
 # Olá, eu sou o André Israel! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreIsraelAO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreIsraelAO&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreIsraelAO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreIsraelAO&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="180em" />
 </div>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 Sobre Mim
 
-Eu sou um desenvolvedor apaixonado por [Sua área: ex: Web / Mobile / Data Science] focado em criar soluções eficientes e escaláveis. Atualmente estou aprimorando minhas habilidades em **[Tecnologia que está estudando]** e contribuindo para projetos open-source.
+Sou estudante de **Estatística na UFMG** (Universidade Federal de Minas Gerais). Sou apaixonado por transformar dados em insights e por entender a lógica por trás dos algoritmos. Atualmente, estou focado em aprimorar minhas habilidades de programação aplicadas à análise de dados e estatística computacional.
 
-- 🔭 Atualmente trabalhando em **[Nome do seu projeto principal]**
-- 🌱 Estudando **[Sua stack atual]**
-- 💬 Pergunte-me sobre **[Assuntos que você domina]**
-- 📫 Como me encontrar: **[Seu E-mail ou LinkedIn]**
+- 📊 **Interesses:** Ciência de Dados, Probabilidade, Programação em Baixo Nível e Astronomia.
+- 🔭 **Projetos Atuais:** Desenvolvendo bibliotecas em C para cálculos estatísticos e explorando modelos matemáticos curiosos.
+- 🎓 **Formação:** Graduando em Estatística na UFMG.
+- 💬 **Fale comigo sobre:** C, Estatística Descritiva, e por que objetos intergalácticos parecem batatas.
 
 ---
 
 ### 🛠 Tecnologias & Ferramentas
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+No meu curso e projetos pessoais, utilizo:
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </div>
 
 ---
 
-### 📊 Meu Github Trophy
+### 📌 Repositórios em Destaque
+
+* **[C-Statistics-Library](https://github.com/AndreIsraelAO/C-Statistics-Library):** Uma biblioteca robusta em C para cálculo de medidas estatísticas (média, mediana, desvio padrão, etc.).
+* **[potato-radius](https://github.com/AndreIsraelAO/potato-radius):** Um projeto divertido que calcula o "raio de batata" de objetos intergalácticos usando C.
+
+---
+
+### 📊 Estatísticas de Atividade
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndreIsraelAO&theme=radical&column=7" alt="Troféus do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreIsraelAO&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🤝 Conecte-se comigo
-<div align="center">
-  <a href="https://linkedin.com/in/SEU_USER" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+### 🤝 Conecte-se Comigo
+
+Dúvidas sobre meus projetos ou quer trocar uma ideia sobre estatística?
+
+<div align="left">
+  <a href="mailto:seu-email@dominio.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/SEU_USER" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreIsraelAO&theme=radical" alt="GitHub Streak" />
-</div>
+> "In God we trust, all others must bring data." — *W. Edwards Deming*
