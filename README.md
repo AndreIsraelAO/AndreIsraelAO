@@ -1,64 +1,18 @@
-# Olá, eu sou o André Israel! 👋
+# 💫 About Me:
+B.Sc. Student in Statistics at UFMG. Focused on Computational Statistics, Probability, and Algorithm Efficiency.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreIsraelAO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreIsraelAO&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="180em" />
-</div>
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/soldoluar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andreisrael_a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andreisraelandalecio.o@gmail.com) 
 
-### 🚀 Sobre Mim
-
-Sou estudante de **Estatística na UFMG** (Universidade Federal de Minas Gerais). Sou apaixonado por transformar dados em insights e por entender a lógica por trás dos algoritmos. Atualmente, estou focado em aprimorar minhas habilidades de programação aplicadas à análise de dados e estatística computacional.
-
-- 📊 **Interesses:** Ciência de Dados, Probabilidade, Programação em Baixo Nível e Astronomia.
-- 🔭 **Projetos Atuais:** Desenvolvendo bibliotecas em C para cálculos estatísticos e explorando modelos matemáticos curiosos.
-- 🎓 **Formação:** Graduando em Estatística na UFMG.
-- 💬 **Fale comigo sobre:** C, Estatística Descritiva, e por que objetos intergalácticos parecem batatas.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AndreIsraelAO&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AndreIsraelAO&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreIsraelAO&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AndreIsraelAO&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠 Tecnologias & Ferramentas
-
-No meu curso e projetos pessoais, utilizo:
-
-<div align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-</div>
-
----
-
-### 📌 Repositórios em Destaque
-
-* **[C-Statistics-Library](https://github.com/AndreIsraelAO/C-Statistics-Library):** Uma biblioteca robusta em C para cálculo de medidas estatísticas (média, mediana, desvio padrão, etc.).
-* **[potato-radius](https://github.com/AndreIsraelAO/potato-radius):** Um projeto divertido que calcula o "raio de batata" de objetos intergalácticos usando C.
-
----
-
-### 📊 Estatísticas de Atividade
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreIsraelAO&theme=dracula" alt="GitHub Streak" />
-</p>
-
----
-
-### 🤝 Conecte-se Comigo
-
-Dúvidas sobre meus projetos ou quer trocar uma ideia sobre estatística?
-
-<div align="left">
-  <a href="mailto:adddoandre@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <
-</div>
-
-<br />
-
-> "In God we trust, all others must bring data." — *W. Edwards Deming*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
